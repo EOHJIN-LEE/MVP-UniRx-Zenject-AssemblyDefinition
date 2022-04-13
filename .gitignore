@@ -58,3 +58,10 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+#Sample
+Assets/Plugins/UniRx/Examples
+Assets/Plugins/UniRx/Examples.meta
+
+Assets/Plugins/Zenject/OptionalExtras
+Assets/Plugins/Zenject/OptionalExtras.meta
+

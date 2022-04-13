@@ -1,0 +1,19 @@
+{
+    "name": "Installer",
+    "rootNamespace": "",
+    "references": [
+        "GUID:0d8beb7f090555447a6cf5ce9e54dbb4",
+        "GUID:232c8f7cddda748ae9f88d5671189f47",
+        "GUID:4a95a02a3f09a437f923e3d5eec7eab3",
+        "GUID:b083b3260a71e4870b59148d7b8f9ce3"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
