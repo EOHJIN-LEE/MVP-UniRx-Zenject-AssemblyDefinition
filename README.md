@@ -1,5 +1,4 @@
-# MVP-UniRx-Zenject-AssemblyDefinition
-Project Template Using UniRx,MVP,Zenject,AssemblyDefinition
+# Project Template Using UniRx + MVP + Zenject + AssemblyDefinition
 
 ## Purpose of the template
 Create a neat game structure using MVP pattern.
