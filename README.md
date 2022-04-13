@@ -6,6 +6,7 @@ Create a neat game structure using MVP pattern.
 
 ## Why do you use the MVP pattern?
 ![image](https://user-images.githubusercontent.com/44941601/163097139-92655787-c3bb-491f-8cb5-11ce1d3bb3fd.png)
+
 This pattern allows you to separate "pure data"(Model) from "business logic"(Presenter) and "reusable components"(View)
 
 However, there is a problem that the complexity of the presenter increases as the function increases.
