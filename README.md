@@ -1,4 +1,4 @@
-# UniRx + MVP + Zenject + AssemblyDefinition
+# MVP + UniRx + Zenject + AssemblyDefinition
 
 ## Purpose of the template
 Create a neat game structure using MVP pattern.
